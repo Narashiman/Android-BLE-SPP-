@@ -1,0 +1,114 @@
+[
+    {
+        "merged": "/home/narashiman/StudioProjects/NP-BLE/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_launcher.png.flat",
+        "source": "/home/narashiman/StudioProjects/NP-BLE/app/src/main/res/drawable-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/narashiman/StudioProjects/NP-BLE/app/build/intermediates/res/merged/debug/raw_byte_stream_tw.txt.flat",
+        "source": "/home/narashiman/StudioProjects/NP-BLE/app/src/main/res/raw/byte_stream_tw.txt"
+    },
+    {
+        "merged": "/home/narashiman/StudioProjects/NP-BLE/app/build/intermediates/res/merged/debug/layout_act_keyboard.xml.flat",
+        "source": "/home/narashiman/StudioProjects/NP-BLE/app/src/main/res/layout/act_keyboard.xml"
+    },
+    {
+        "merged": "/home/narashiman/StudioProjects/NP-BLE/app/build/intermediates/res/merged/debug/raw_byte_stream_cn.txt.flat",
+        "source": "/home/narashiman/StudioProjects/NP-BLE/app/src/main/res/raw/byte_stream_cn.txt"
+    },
+    {
+        "merged": "/home/narashiman/StudioProjects/NP-BLE/app/build/intermediates/res/merged/debug/layout_act_about.xml.flat",
+        "source": "/home/narashiman/StudioProjects/NP-BLE/app/src/main/res/layout/act_about.xml"
+    },
+    {
+        "merged": "/home/narashiman/StudioProjects/NP-BLE/app/build/intermediates/res/merged/debug/raw_key_board_cn.txt.flat",
+        "source": "/home/narashiman/StudioProjects/NP-BLE/app/src/main/res/raw/key_board_cn.txt"
+    },
+    {
+        "merged": "/home/narashiman/StudioProjects/NP-BLE/app/build/intermediates/res/merged/debug/raw_about_en.txt.flat",
+        "source": "/home/narashiman/StudioProjects/NP-BLE/app/src/main/res/raw/about_en.txt"
+    },
+    {
+        "merged": "/home/narashiman/StudioProjects/NP-BLE/app/build/intermediates/res/merged/debug/layout_dialog_end_flg.xml.flat",
+        "source": "/home/narashiman/StudioProjects/NP-BLE/app/src/main/res/layout/dialog_end_flg.xml"
+    },
+    {
+        "merged": "/home/narashiman/StudioProjects/NP-BLE/app/build/intermediates/res/merged/debug/raw_cmd_line_en.txt.flat",
+        "source": "/home/narashiman/StudioProjects/NP-BLE/app/src/main/res/raw/cmd_line_en.txt"
+    },
+    {
+        "merged": "/home/narashiman/StudioProjects/NP-BLE/app/build/intermediates/res/merged/debug/drawable-ldpi_ic_launcher.png.flat",
+        "source": "/home/narashiman/StudioProjects/NP-BLE/app/src/main/res/drawable-ldpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/narashiman/StudioProjects/NP-BLE/app/build/intermediates/res/merged/debug/raw_about_tw.txt.flat",
+        "source": "/home/narashiman/StudioProjects/NP-BLE/app/src/main/res/raw/about_tw.txt"
+    },
+    {
+        "merged": "/home/narashiman/StudioProjects/NP-BLE/app/build/intermediates/res/merged/debug/raw_key_board_tw.txt.flat",
+        "source": "/home/narashiman/StudioProjects/NP-BLE/app/src/main/res/raw/key_board_tw.txt"
+    },
+    {
+        "merged": "/home/narashiman/StudioProjects/NP-BLE/app/build/intermediates/res/merged/debug/raw_cmd_line_tw.txt.flat",
+        "source": "/home/narashiman/StudioProjects/NP-BLE/app/src/main/res/raw/cmd_line_tw.txt"
+    },
+    {
+        "merged": "/home/narashiman/StudioProjects/NP-BLE/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_launcher.png.flat",
+        "source": "/home/narashiman/StudioProjects/NP-BLE/app/src/main/res/drawable-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/narashiman/StudioProjects/NP-BLE/app/build/intermediates/res/merged/debug/raw_byte_stream_en.txt.flat",
+        "source": "/home/narashiman/StudioProjects/NP-BLE/app/src/main/res/raw/byte_stream_en.txt"
+    },
+    {
+        "merged": "/home/narashiman/StudioProjects/NP-BLE/app/build/intermediates/res/merged/debug/layout_dialog_io_mode.xml.flat",
+        "source": "/home/narashiman/StudioProjects/NP-BLE/app/src/main/res/layout/dialog_io_mode.xml"
+    },
+    {
+        "merged": "/home/narashiman/StudioProjects/NP-BLE/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_launcher.png.flat",
+        "source": "/home/narashiman/StudioProjects/NP-BLE/app/src/main/res/drawable-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/narashiman/StudioProjects/NP-BLE/app/build/intermediates/res/merged/debug/raw_cmd_line_cn.txt.flat",
+        "source": "/home/narashiman/StudioProjects/NP-BLE/app/src/main/res/raw/cmd_line_cn.txt"
+    },
+    {
+        "merged": "/home/narashiman/StudioProjects/NP-BLE/app/build/intermediates/res/merged/debug/layout_act_byte_stream.xml.flat",
+        "source": "/home/narashiman/StudioProjects/NP-BLE/app/src/main/res/layout/act_byte_stream.xml"
+    },
+    {
+        "merged": "/home/narashiman/StudioProjects/NP-BLE/app/build/intermediates/res/merged/debug/drawable_hr_gray_white.xml.flat",
+        "source": "/home/narashiman/StudioProjects/NP-BLE/app/src/main/res/drawable/hr_gray_white.xml"
+    },
+    {
+        "merged": "/home/narashiman/StudioProjects/NP-BLE/app/build/intermediates/res/merged/debug/layout_act_main.xml.flat",
+        "source": "/home/narashiman/StudioProjects/NP-BLE/app/src/main/res/layout/act_main.xml"
+    },
+    {
+        "merged": "/home/narashiman/StudioProjects/NP-BLE/app/build/intermediates/res/merged/debug/layout_act_cmd_line.xml.flat",
+        "source": "/home/narashiman/StudioProjects/NP-BLE/app/src/main/res/layout/act_cmd_line.xml"
+    },
+    {
+        "merged": "/home/narashiman/StudioProjects/NP-BLE/app/build/intermediates/res/merged/debug/layout_act_discovery.xml.flat",
+        "source": "/home/narashiman/StudioProjects/NP-BLE/app/src/main/res/layout/act_discovery.xml"
+    },
+    {
+        "merged": "/home/narashiman/StudioProjects/NP-BLE/app/build/intermediates/res/merged/debug/raw_key_board_en.txt.flat",
+        "source": "/home/narashiman/StudioProjects/NP-BLE/app/src/main/res/raw/key_board_en.txt"
+    },
+    {
+        "merged": "/home/narashiman/StudioProjects/NP-BLE/app/build/intermediates/res/merged/debug/layout_bar_data_count.xml.flat",
+        "source": "/home/narashiman/StudioProjects/NP-BLE/app/src/main/res/layout/bar_data_count.xml"
+    },
+    {
+        "merged": "/home/narashiman/StudioProjects/NP-BLE/app/build/intermediates/res/merged/debug/layout_dialog_set_keyboard.xml.flat",
+        "source": "/home/narashiman/StudioProjects/NP-BLE/app/src/main/res/layout/dialog_set_keyboard.xml"
+    },
+    {
+        "merged": "/home/narashiman/StudioProjects/NP-BLE/app/build/intermediates/res/merged/debug/raw_about_cn.txt.flat",
+        "source": "/home/narashiman/StudioProjects/NP-BLE/app/src/main/res/raw/about_cn.txt"
+    },
+    {
+        "merged": "/home/narashiman/StudioProjects/NP-BLE/app/build/intermediates/res/merged/debug/layout_list_view_item_devices.xml.flat",
+        "source": "/home/narashiman/StudioProjects/NP-BLE/app/src/main/res/layout/list_view_item_devices.xml"
+    }
+]

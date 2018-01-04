@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?><!-- 输入输出模式选择 -->
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical">
+
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/dialog_io_mode_input_set" />
+
+        <RadioGroup
+            android:id="@+id/rg_Input"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:orientation="horizontal">
+
+            <RadioButton
+                android:id="@+id/rb_io_mode_set_in_string"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:checked="true"
+                android:text="@string/dialog_io_mode_ascii" />
+
+            <RadioButton
+                android:id="@+id/rb_io_mode_set_in_hex"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/dialog_io_mode_hex" />
+        </RadioGroup>
+    </LinearLayout>
+
+    <!--分隔线-->
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="fill_parent"
+        android:layout_height="1dip"
+        android:background="@drawable/hr_gray_white" />
+
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/dialog_io_mode_output_set" />
+
+        <RadioGroup
+            android:id="@+id/rg_Output"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:orientation="horizontal">
+
+            <RadioButton
+                android:id="@+id/rb_io_mode_set_out_string"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:checked="true"
+                android:text="@string/dialog_io_mode_ascii" />
+
+            <RadioButton
+                android:id="@+id/rb_io_mode_set_out_hex"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/dialog_io_mode_hex" />
+        </RadioGroup>
+    </LinearLayout>
+</LinearLayout>

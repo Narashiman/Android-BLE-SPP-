@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?><!-- 通信控制界面-数据流模式 -->
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <!-- 顶部数据统计状态条 -->
+    <include
+        android:id="@+id/include_data_count_area"
+        layout="@layout/bar_data_count"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true" />
+
+    <!-- 数据发送区 -->
+    <RelativeLayout
+        android:id="@+id/actByteStream_rl_send_area"
+        android:layout_width="match_parent"
+        android:layout_height="60dip"
+        android:layout_alignParentBottom="true"
+        android:orientation="vertical">
+
+        <ImageButton
+            android:id="@+id/actByteStream_btn_send"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:layout_alignParentRight="true"
+            android:contentDescription="@string/actByteStream_btn_send_desc"
+            android:onClick="onClickBtnSend"
+            android:src="@android:drawable/ic_menu_send" />
+
+        <AutoCompleteTextView
+            android:id="@+id/actByteStream_actv_input"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:layout_alignParentLeft="true"
+            android:layout_toLeftOf="@id/actByteStream_btn_send"
+            android:completionThreshold="2"
+            android:hint="@string/actByteStream_input_hint"
+            android:maxLines="3">
+
+            <requestFocus />
+        </AutoCompleteTextView>
+    </RelativeLayout>
+
+    <!-- 数据接收区 -->
+    <ScrollView
+        android:id="@+id/actByteStream_sv_Scroll"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_above="@id/actByteStream_rl_send_area"
+        android:layout_below="@id/include_data_count_area"
+        android:fadingEdge="vertical"
+        android:scrollbars="vertical">
+
+        <TextView
+            android:id="@+id/actByteStream_tv_receive"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:singleLine="false"
+            android:text="@string/msg_receive_data_wating"
+            android:typeface="monospace" />
+    </ScrollView>
+</RelativeLayout>
